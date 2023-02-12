@@ -35,6 +35,12 @@ ul {
   list-style: none;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .container {
   max-width: 1158px;
   width: 100%;
@@ -227,10 +233,6 @@ ul {
   border: 1px solid var(--cornflower);
 }
 
-.examples-of-work img {
-  display: block;
-}
-
 .our-team {
   padding: 120px 0;
   background: var(--cloud);
@@ -337,10 +339,6 @@ ul {
 
 .projects-list li {
   width: 360px;
-}
-
-.projects-list img {
-  display: block;
 }
 
 .projects-list-text-content {
