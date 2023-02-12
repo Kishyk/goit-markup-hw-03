@@ -48,8 +48,12 @@ ul {
   border-bottom: 1px solid var(--cornflower);
 }
 
+.header .container {
+  display: flex;
+}
+
 .header-nav {
-  display: inline-flex;
+  display: flex;
 }
 
 .logo {
@@ -105,8 +109,7 @@ ul {
 }
 
 .address {
-  display: inline-flex;
-  margin-left: 332px;
+  margin-left: auto;
   font-style: normal;
 }
 
