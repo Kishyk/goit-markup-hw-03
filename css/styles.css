@@ -215,13 +215,12 @@ img {
 }
 
 .examples-of-work .title {
-  display: flex;
-  justify-content: center;
   margin-bottom: 72px;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
+  text-align: center;
 }
 
 .examples-of-work .list {
@@ -240,13 +239,12 @@ img {
 }
 
 .our-team .title {
-  display: flex;
-  justify-content: center;
   margin-bottom: 72px;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
+  text-align: center;
 }
 
 .our-team .list {
@@ -265,23 +263,21 @@ img {
 }
 
 .our-team .name {
-  display: flex;
-  justify-content: center;
   margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
+  text-align: center;
 }
 
 .our-team .profession {
-  display: flex;
-  justify-content: center;
   margin-bottom: 0;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .footer {
